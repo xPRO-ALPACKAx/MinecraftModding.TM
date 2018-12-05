@@ -1,0 +1,12 @@
+package com.xPROALPACKAx.TutorialMod.proxy;
+
+import com.xPROALPACKAx.TutorialMod.items.ItemBase;
+
+import net.minecraft.item.Item;
+
+public class CommonProxy 
+{
+
+	public void registerItemRenderer(Item item, int meta, String id) {}
+		
+	}
