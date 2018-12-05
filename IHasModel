@@ -1,0 +1,8 @@
+package com.xPROALPACKAx.TutorialMod.util;
+
+public interface IHasModel 
+{
+	
+	public void registerModels();
+	
+}
