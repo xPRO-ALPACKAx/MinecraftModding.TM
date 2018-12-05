@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tm",
+  "name": "Tutorial Mod",
+  "description": "Trial",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xPROALPACKAx"],
+  "credits": "All for me By me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
